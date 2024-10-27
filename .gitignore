@@ -1,0 +1,32 @@
+# Ignore build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Ignore build directories
+/build/
+/bin/
+/lib/
+/out/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore other temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
