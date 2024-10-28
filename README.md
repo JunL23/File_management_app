@@ -16,7 +16,7 @@ git clone https://github.com/JunL23/File_management_app.git
 
 1. In your terminal, typed in the following:
 ```groovy
-g++ main.cpp handler.cp helper.cpp -o program
+g++ main.cpp handler.cpp helper.cpp -o program
 ```
 
 2. Lastly, type in the following in your computer terminal:
